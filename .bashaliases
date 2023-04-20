@@ -1,0 +1,7 @@
+alias gs="git status"
+alias main="co main && git pull origin main"
+alias rebasemain="main && co - && git rebase main"
+alias stash="git stash"
+alias pop="git stash pop"
+alias pushit="git push origin HEAD"
+alias forceit="git push origin -f HEAD"
