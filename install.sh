@@ -1,5 +1,5 @@
 #!/bin/sh
 
-cp ./.bash_aliases ~/.bash_aliases
-cp ./.profile ~/.profile
+cp /workspaces/.codespaces/.persistedshare/dotfiles/.bash_aliases ~/.bash_aliases
+cp /workspaces/.codespaces/.persistedshare/dotfiles/.profile ~/.profile
 . ~/.profile
