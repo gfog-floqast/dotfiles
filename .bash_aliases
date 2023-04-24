@@ -1,7 +1,7 @@
 #-----program shortcuts-----
 alias python="python3"
 alias pip="pip3"
-#alias vim="nvim"
+alias vim="nvim"
 alias tf="terraform"
 
 #-----alias working with ripgrep-----
